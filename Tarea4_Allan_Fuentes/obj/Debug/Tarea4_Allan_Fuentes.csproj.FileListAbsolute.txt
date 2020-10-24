@@ -1,0 +1,14 @@
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.csprojAssemblyReference.cache
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.Fromularios.FormMenu.resources
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.Fromularios.FormSalarioextra.resources
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.Properties.Resources.resources
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.csproj.GenerateResource.cache
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\bin\Debug\Tarea4_Allan_Fuentes.exe.config
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\bin\Debug\Tarea4_Allan_Fuentes.exe
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\bin\Debug\Tarea4_Allan_Fuentes.pdb
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.exe
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.pdb
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.Formularios.FormNuevo_salario.resources
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.Formularios.FormVentas_diarias.resources
+C:\Users\allan\Source\Repos\Tarea4_Allan_Fuentes\Tarea4_Allan_Fuentes\obj\Debug\Tarea4_Allan_Fuentes.Formularios.Formcuotamensual.resources
